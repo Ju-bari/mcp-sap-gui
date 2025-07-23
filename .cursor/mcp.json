@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "mcp-sap-gui": {
+      "command": "python",
+      "args": ["src/sap_gui_server/server.py"],
+      "cwd": "C:/Users/86733/Desktop/mcp/mcp-sap-gui",
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
